@@ -61,7 +61,7 @@ To run the tests using **Jest**:
 npm test
 ```
 
-### 8. 8. Clean Build Files
+### 8. Clean Build Files
 To remove build artifacts (like the dist/ folder):
 ```
 npm run clean
